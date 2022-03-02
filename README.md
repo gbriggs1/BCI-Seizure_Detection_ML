@@ -11,7 +11,10 @@ Data: https://data.world/uci/epileptic-seizure-recognition/workspace/file?filena
 - conda
 
 ### Recreating Results
-Download data as a .csv file and put it into your repository. Save as 'data.csv' or change the code to the name of your file.
+- Download the data from the link above and save as a .csv file. 
+- Put this file into your repository as 'data.csv', otherwise change the python code to reflect the name of your file.
+- Open Jupyter Notebook and navigate to the code.ipynb 
+- Run each cell in order to see the results. 
 
-Open Jupyter Notebook and navigate to the code.ipynb and run each cell in order to see the results. 
+
 
